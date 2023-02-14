@@ -1,2 +1,2 @@
 # C-Users-Eduardo-Desktop-html-css-landing-page
-Landing page newslatter
+Landing Page desenvolvida através de um curso livre, no YouTube. Portanto, este design e este código serviram como aprendizado.
